@@ -51,8 +51,8 @@ while (Succeed != 'Reached');
 
 <div>
   <a href="https://github.com/ManuCoutinho">
-  <img height="205em" src="https://github-readme-stats.vercel.app/api?username=marcusmarcelino&show_icons=true&theme=vision-friendly-dark"/>
-  <img height="205em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusmarcelino&layout=compact&theme=vision-friendly-dark"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=marcusmarcelino&show_icons=true&theme=vision-friendly-dark"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusmarcelino&layout=compact&theme=vision-friendly-dark"/>
 </div>
 
 
