@@ -50,7 +50,7 @@ while (Succeed != 'Reached');
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div>
-  <a href="https://github.com/ManuCoutinho">
+  <a href="https://github.com/marcusmarcelino">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=marcusmarcelino&show_icons=true&theme=vision-friendly-dark"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusmarcelino&layout=compact&theme=vision-friendly-dark"/>
 </div>
@@ -61,7 +61,7 @@ while (Succeed != 'Reached');
 ## &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/marcus-marcelino-vl325" target="_blank">
+<a href="https://linkedin.com/in/marcusmarcelino" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-marcusmarcelino-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/marcusvsmarcelino" target="_blank">
